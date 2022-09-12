@@ -1,0 +1,4 @@
+
+---
+ansible_user                 : root
+ansible_ssh_private_key_file : /home/minmaxx/Documents/webspark_test/vars/id_rsa3

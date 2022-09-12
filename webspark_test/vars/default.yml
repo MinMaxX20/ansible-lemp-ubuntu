@@ -1,0 +1,13 @@
+---
+mysql_root_password: "spark123"
+mysql_db: "wordpress"
+mysql_user: "webspark"
+mysql_password: "spark"
+
+
+#HTTPS Settings
+http_host: "webspark.com"
+http_conf: "webspark.conf"
+https_port: "443"
+
+ansible_port: "1234"

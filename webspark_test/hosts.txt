@@ -1,0 +1,4 @@
+
+[MAIN_SERVERS]
+ubuntu1 ansible_host=192.168.31.137
+ubuntu2 ansible_host=192.168.31.138
